@@ -1,23 +1,48 @@
-Grill Restaurant Website
+🍖 Grill Restaurant Website
 
-🔗 Live Demo:
-https://grill-project-st21.netlify.app/
+A simple, modern, and fully responsive restaurant website created for practicing HTML, CSS, and JavaScript.
 
-📌 Описание
-Простой, адаптивный и современный сайт ресторана Grill.
-Сделан для практики HTML, CSS и JavaScript.
+🔗 Live Demo
 
-🧰 Использованные технологии
-HTML
-CSS
+👉 https://grill-project-st21.netlify.app/
+
+📝 Description
+
+This project is a one-page restaurant website built in a clean and modern style.
+It demonstrates responsive layout skills, proper structure, and interactive UI elements.
+
+The website includes a hero section, a menu of dishes, an image gallery, and restaurant information.
+It looks good on phones, tablets, and desktop screens.
+
+🛠 Technologies Used
+
+HTML5
+
+CSS3
+
 JavaScript
+
 Responsive Layout
+
 Animations
 
-✨ Функции сайта
-Главная секция с заголовком
-Меню блюд
-Галерея изображений
-Информация о ресторане
-Навигация по секциям
-Кнопки и интерактивные элементы
+⭐ Features
+
+Hero section with a main heading
+
+Menu section
+
+Image gallery
+
+About restaurant section
+
+Navigation links
+
+Smooth animations
+
+Interactive buttons and elements
+
+📥 How to Run Locally
+git clone https://github.com/sokhibtilavov/grill-project-st21
+cd grill-project-st21
+open index.html
