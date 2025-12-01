@@ -5,7 +5,7 @@ A simple, modern, and fully responsive restaurant website created for practicing
 👉 https://grill-project-st21.netlify.app/
 
 🖼️ Screenshot
-![Grill Project Screenshot](grill-project-screenshot.png)
+![Grill Project Screenshot]("C:\Users\Avatar\Desktop\grill-project-screenshot.png")
 
 
 📝 Description
